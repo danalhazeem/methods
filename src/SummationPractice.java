@@ -8,7 +8,9 @@ public class SummationPractice {
         numbers.add(7);
         numbers.add(4);
         numbers.add(5);
-        System.out.println(ArrayListSum(numbers));
+
+        int listSum = ArrayListSum(numbers);
+        System.out.println(listSum);
 
     }
     static int ArrayListSum(ArrayList<Integer>   numbers){

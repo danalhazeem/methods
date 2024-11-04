@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class method {
+public class SummationPractice {
     public static void main(String[] args) {
         ArrayList<Integer> numbers = new ArrayList<>();
         numbers.add(3);
